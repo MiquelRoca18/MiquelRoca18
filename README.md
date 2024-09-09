@@ -40,8 +40,8 @@
 <h3 align="center">Astro SpaceX</h3>
 <div align="center">
 <a href="https://github.com/MiquelRoca18/astroSpaceX" target="_blank">
-<img src="https://i.imgur.com/your-image1.png" width="400" alt="Proyecto 1"></a>
-<p>Descripción breve del proyecto. Tecnologías utilizadas: [React, Node.js, etc.].</p>
+<img src="https://imgur.com/sQCCuUs.png" width="400" alt="Proyecto 1"></a>
+<p>Tienda en línea construida con React. Permite explorar productos desde un JSON, filtrarlos por precio y categoría, agregar productos al carrito y ajustar cantidades.</p>
 <p>
 <a href="https://github.com/MiquelRoca18/astroSpaceX" target="_blank">
 <img src="https://img.shields.io/badge/-Ver Código-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -55,7 +55,7 @@
 <div align="center">
 <a href="https://github.com/MiquelRoca18/shoppingCart" target="_blank">
 <img src="https://imgur.com/a8g882p.png" width="400" alt="Proyecto 2"></a>
-<p>Descripción breve del proyecto. Tecnologías utilizadas: [Astro, API de SpaceX, etc.].</p>
+<p>Sitio web en Astro que muestra todos los lanzamientos de SpaceX conectándose a su API. Incluye número de vuelo, parche, descripción y estado del lanzamiento, con navegación mediante paginación.</p>
 <p>
 <a href="https://github.com/MiquelRoca18/shoppingCart" target="_blank">
 <img src="https://img.shields.io/badge/-Ver Código-80ffaa?style=for-the-badge&logo=github&logoColor=black">

@@ -37,30 +37,30 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Astro SpaceX Tracker</h3>
+<h3 align="center">Astro SpaceX</h3>
 <div align="center">
-<a href="https://github.com/tu-usuario/astro-spacex-tracker" target="_blank">
-<img src="https://i.imgur.com/your-astro-image.png" width="400" alt="Astro SpaceX Tracker"></a>
+<a href="https://github.com/MiquelRoca18/astroSpaceX" target="_blank">
+<img src="https://i.imgur.com/your-image1.png" width="400" alt="Proyecto 1"></a>
+<p>Web que muestra todos los lanzamientos de SpaceX conectándose a su API. Incluye número de vuelo, parche, descripción y estado del lanzamiento.</p>
 <p>
-<a href="https://github.com/tu-usuario/astro-spacex-tracker" target="_blank">
-<img src="https://img.shields.io/badge/-Astro-blue?style=for-the-badge&logo=astro&logoColor=white" alt="Astro Project">
+<a href="https://github.com/MiquelRoca18/astroSpaceX" target="_blank">
+<img src="https://img.shields.io/badge/-Ver Código-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Un sitio web que muestra todos los lanzamientos de SpaceX a lo largo de su historia. Utiliza la API de SpaceX para mostrar información detallada sobre cada vuelo, incluyendo número de vuelo, parche, descripción y estado de la operación. Incluye paginación para explorar desde el primer hasta el último lanzamiento.</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">React Movie Finder</h3>
+<h3 align="center">Tienda React</h3>
 <div align="center">
-<a href="https://github.com/tu-usuario/react-movie-finder" target="_blank">
-<img src="https://i.imgur.com/your-react-image.png" width="400" alt="React Movie Finder"></a>
+<a href="https://github.com/MiquelRoca18/shoppingCart" target="_blank">
+<img src="https://i.imgur.com/your-image2.png" width="400" alt="Proyecto 2"></a>
+<p>Tienda en línea construida con React. Permite explorar productos desde un JSON, filtrarlos por precio y categoría, agregar productos al carrito y ajustar cantidades.</p>
 <p>
-<a href="https://github.com/tu-usuario/react-movie-finder" target="_blank">
-<img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Project">
+<a href="https://github.com/MiquelRoca18/shoppingCart" target="_blank">
+<img src="https://img.shields.io/badge/-Ver Código-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Una aplicación para buscar y ordenar películas utilizando un JSON de datos. Incluye un buscador para encontrar películas por texto y una funcionalidad de ordenación alfabética.</p>
 </div>
 </td>
 </tr>

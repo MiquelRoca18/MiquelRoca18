@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/Powered%20by-Astro-blue?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
 </a>
 <a href="https://github.com/MiquelRoca18/astroSpaceX" target="_blank">
-<img src="https://imgur.com/sQCCuUs.png" width="400" alt="Astro SpaceX"></a>
+<img src="https://imgur.com/5uWPzem.png" width="400" alt="Astro SpaceX"></a>
 <p>Web que muestra todos los lanzamientos de SpaceX conectándose a su API. Incluye número de vuelo, parche, descripción y estado del lanzamiento.</p>
 <p>
 <a href="https://github.com/MiquelRoca18/astroSpaceX" target="_blank">

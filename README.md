@@ -54,7 +54,7 @@
 <td width="50%">
 <div align="center">
 <h3>Tienda React</h3>
-<img src="https://img.shields.io/badge/Powered%20by-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/Powered%20by-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React" href="https://es.react.dev/reference/react">
 <a href="https://github.com/MiquelRoca18/shoppingCart" target="_blank">
 <img src="https://imgur.com/a8g882p.png" width="400" alt="Tienda React"></a>
 <p>Tienda en línea construida con React. Permite explorar productos desde un JSON, filtrarlos por precio y categoría, agregar productos al carrito y ajustar cantidades.</p>

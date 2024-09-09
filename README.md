@@ -37,10 +37,10 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Astro SpaceX</h3>
+<h3 align="center">Astro SpaceX <img src="https://img.shields.io/badge/Powered%20by-Astro-blue?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"></h3>
 <div align="center">
 <a href="https://github.com/MiquelRoca18/astroSpaceX" target="_blank">
-<img src="https://imgur.com/sQCCuUs.png" width="400" alt="Proyecto 1"></a>
+<img src="https://imgur.com/sQCCuUs.png" width="400" alt="Astro SpaceX"></a>
 <p>Web que muestra todos los lanzamientos de SpaceX conectándose a su API. Incluye número de vuelo, parche, descripción y estado del lanzamiento.</p>
 <p>
 <a href="https://github.com/MiquelRoca18/astroSpaceX" target="_blank">
@@ -51,10 +51,10 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Tienda React</h3>
+<h3 align="center">Tienda React <img src="https://img.shields.io/badge/Powered%20by-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"></h3>
 <div align="center">
 <a href="https://github.com/MiquelRoca18/shoppingCart" target="_blank">
-<img src="https://imgur.com/a8g882p.png" width="400" alt="Proyecto 2"></a>
+<img src="https://imgur.com/a8g882p.png" width="400" alt="Tienda React"></a>
 <p>Tienda en línea construida con React. Permite explorar productos desde un JSON, filtrarlos por precio y categoría, agregar productos al carrito y ajustar cantidades.</p>
 <p>
 <a href="https://github.com/MiquelRoca18/shoppingCart" target="_blank">

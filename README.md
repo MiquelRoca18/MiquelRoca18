@@ -42,7 +42,7 @@
 <img src="https://i.imgur.com/your-image1.png" width="400" alt="Proyecto 1"></a>
 <p>Descripción breve del proyecto. Tecnologías utilizadas: [React, Node.js, etc.].</p>
 <p>
-<a href="https://github.com/MiquelRoca18/proyecto1" target="_blank">
+<a href="https://github.com/MiquelRoca18/astroSpaceX" target="_blank">
 <img src="https://img.shields.io/badge/-Ver Código-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -56,7 +56,7 @@
 <img src="https://i.imgur.com/your-image2.png" width="400" alt="Proyecto 2"></a>
 <p>Descripción breve del proyecto. Tecnologías utilizadas: [Astro, API de SpaceX, etc.].</p>
 <p>
-<a href="https://github.com/MiquelRoca18/proyecto2" target="_blank">
+<a href="https://github.com/MiquelRoca18/shoppingCart" target="_blank">
 <img src="https://img.shields.io/badge/-Ver Código-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>

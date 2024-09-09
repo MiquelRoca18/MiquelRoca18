@@ -2,7 +2,9 @@
 <h1 align="center">Hola, soy Miquel Roca 👋</h1>
 </div>
 
-<img src="https://imgur.com/a/2z1Ce0Z" />
+<div align="center">
+<img src="[https://i.imgur.com/your-image-link.png](https://imgs.search.brave.com/Ow5YDtjsGOIxUAE6zVIm665J8PWMolLaUr9Aw_SUC04/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mb3Rv/Z3JhZmlhcy5mbG9v/eGVybm93LmNvbS9j/bGlwcGluZy9jbXNp/bWFnZXMwMi8yMDE5/LzA5LzA2LzcyNTcw/MEQwLTRFQUMtNDFF/NC05Q0U1LTNFMzRF/QzczOEJFOC85OC5q/cGc_Y3JvcD0xMDI0/LDU3Nix4MCx5MCZ3/aWR0aD0xOTAwJmhl/aWdodD0xMDY5Jm9w/dGltaXplPWhpZ2gm/Zm9ybWF0PXdlYnBs/eQ)" alt="Banner" width="600"/>
+</div>
 
 <!-- <div align="center">
 [![GitHub followers](https://img.shields.io/github/followers/MiquelRoca18?style=social)](https://github.com/MiquelRoca18)

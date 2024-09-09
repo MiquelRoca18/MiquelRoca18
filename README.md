@@ -45,7 +45,7 @@
 <p>Web que muestra todos los lanzamientos de SpaceX conectándose a su API. Incluye número de vuelo, parche, descripción y estado del lanzamiento.</p>
 <p>
 <a href="https://github.com/MiquelRoca18/astroSpaceX" target="_blank">
-<img src="https://img.shields.io/badge/-Ver Código-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img align="center" src="https://img.shields.io/badge/-Ver Código-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </div>
@@ -53,7 +53,7 @@
 
 <td width="50%">
 <h3 align="center">Tienda React</h3>
-<img src="https://img.shields.io/badge/Powered%20by-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React">
+<img align="center" src="https://img.shields.io/badge/Powered%20by-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React">
 <div align="center">
 <a href="https://github.com/MiquelRoca18/shoppingCart" target="_blank">
 <img src="https://imgur.com/a8g882p.png" width="400" alt="Tienda React"></a>

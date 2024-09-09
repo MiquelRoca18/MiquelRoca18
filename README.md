@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Miquel Roca 👋</h1>
 </div>
 
-<img src="https://imgur.com/a/2z1Ce0Z" />
+<img src="[https://imgur.com/a/2z1Ce0Z](https://imgur.com/a/2z1Ce0Z)" />
 
 <!-- <div align="center">
 [![GitHub followers](https://img.shields.io/github/followers/MiquelRoca18?style=social)](https://github.com/MiquelRoca18)

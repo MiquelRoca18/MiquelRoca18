@@ -54,7 +54,7 @@
 <h3 align="center">Tienda React</h3>
 <div align="center">
 <a href="https://github.com/MiquelRoca18/shoppingCart" target="_blank">
-<img src="https://i.imgur.com/your-image2.png" width="400" alt="Proyecto 2"></a>
+<img src="https://imgur.com/a8g882p.png" width="400" alt="Proyecto 2"></a>
 <p>Descripción breve del proyecto. Tecnologías utilizadas: [Astro, API de SpaceX, etc.].</p>
 <p>
 <a href="https://github.com/MiquelRoca18/shoppingCart" target="_blank">

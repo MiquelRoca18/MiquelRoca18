@@ -41,7 +41,7 @@
 <div align="center">
 <a href="https://github.com/MiquelRoca18/astroSpaceX" target="_blank">
 <img src="https://imgur.com/sQCCuUs.png" width="400" alt="Proyecto 1"></a>
-<p>Web que muestra todos los lanzamientos de SpaceX conectándose a su API. Incluye número de vuelo, parche, descripción y estado del lanzamiento, con navegación mediante paginación.</p>
+<p>Web que muestra todos los lanzamientos de SpaceX conectándose a su API. Incluye número de vuelo, parche, descripción y estado del lanzamiento.</p>
 <p>
 <a href="https://github.com/MiquelRoca18/astroSpaceX" target="_blank">
 <img src="https://img.shields.io/badge/-Ver Código-ff9?style=for-the-badge&logo=github&logoColor=black">

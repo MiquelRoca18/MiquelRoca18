@@ -8,7 +8,7 @@
 
 <div align="center">
 [![GitHub followers](https://img.shields.io/github/followers/MiquelRoca18?style=social)](https://github.com/MiquelRoca18)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/miquel-roca-mascaros/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miquel-roca-mascaros/)
 </div>
 
 ---

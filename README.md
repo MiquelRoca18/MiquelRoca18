@@ -56,7 +56,7 @@
 <td width="50%">
 <div align="center">
 <h3>Tienda React</h3>
-<a href="https://reactjs.org/docs/getting-started.html" target="_blank">
+<a href="https://es.react.dev/reference/react" target="_blank">
 <img src="https://img.shields.io/badge/Powered%20by-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React">
 </a>
 <a href="https://github.com/MiquelRoca18/shoppingCart" target="_blank">

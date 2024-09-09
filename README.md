@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://i.imgur.com/your-image-link.png" alt="Banner" width="600"/>
+<img src="" alt="Banner" width="600"/>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 ## Sobre mí
 
-👨‍💻 Desarrollador **[Frontend | Backend | Fullstack]** con experiencia en la creación de aplicaciones web y móviles. Apasionado por la **tecnología** y por construir soluciones que mejoren la vida de las personas.
+👨‍💻 Desarrollador **[Frontend | Backend | Fullstack]** con experiencia en la creación de aplicaciones web y móviles. Entusiasta por la **tecnología** y por construir soluciones que mejoren la vida de las personas.
 
 - 🚀 En busca de nuevas oportunidades para seguir creciendo profesionalmente.
 - 🧑‍🎓 Me especializo en [Java | JavaScript | React | Angular | PHP | otras tecnologías].

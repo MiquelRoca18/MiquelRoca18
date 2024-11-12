@@ -89,4 +89,4 @@
 
 - **Correo**: [miquel1818@correo.com](mailto:miquel1818@correo.com)
 - **LinkedIn**: [linkedin.com/in/mique-roca-mascaros](https://www.linkedin.com/in/miquel-roca-mascaros/)
-- **Portafolio**: [tuweb.com](https://tuweb.com)
+- **Portafolio**: [porfoliomiquelroca.netlify.app](https://porfoliomiquelroca.netlify.app/)

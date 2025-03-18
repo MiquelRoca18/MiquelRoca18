@@ -2,16 +2,6 @@
 <h1 align="center">Hola, soy Miquel Roca 👋</h1>
 </div>
 
-<div align="center">
-  <img src="https://imgur.com/y9XXVta.png" alt="Banner" width="600"/>
-</div>
-
-
-<!-- <div align="center">
-[![GitHub followers](https://img.shields.io/github/followers/MiquelRoca18?style=social)](https://github.com/MiquelRoca18)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miquel-roca-mascaros/)
-</div> -->
-
 ---
 
 ## Sobre mí

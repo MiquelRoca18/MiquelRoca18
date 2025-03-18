@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/Powered%20by-Vue.js-green?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
     </a>
     <a href="https://github.com/MiquelRoca18/sistema-erp-construccion" target="_blank">
-      <img src="https://imgur.com/dhf9YZb.png" width="400" alt="Tienda Vue"></a>
+      <img src="https://imgur.com/K76Tp7N" width="400" alt="Tienda Vue"></a>
     <p>Sistema ERP para empresas de construcción que centraliza la gestión de proyectos, recursos, finanzas y personal. Diseñado para optimizar procesos clave y facilitar la toma de decisiones con informes detallados. Escalable, multiusuario y personalizable.</p>
     <p>
       <a href="https://github.com/MiquelRoca18/sistema-erp-construccion" target="_blank">

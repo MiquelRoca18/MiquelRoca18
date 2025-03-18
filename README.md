@@ -80,5 +80,5 @@
 ## 📫 Contáctame
 
 - **Correo**: [miquel1818@correo.com](mailto:miquel1818@correo.com)
-- **LinkedIn**: [linkedin.com/in/mique-roca-mascaros](https://www.linkedin.com/in/miquel-roca-mascaros/)
-- **Portafolio**: [porfoliomiquelroca.netlify.app](https://portafoliomiquelroca.netlify.app/)
+- **LinkedIn**: [linkedin.com/in/miquel-roca-mascaros](https://www.linkedin.com/in/miquel-roca-mascaros/)
+- **Portafolio**: [portafoliomiquelroca.netlify.app](https://portafoliomiquelroca.netlify.app/)

@@ -16,19 +16,19 @@
 
 ## Sobre mí
 
-👨‍💻 Desarrollador **[Frontend | Backend | Fullstack]** con experiencia en la creación de aplicaciones web y móviles. Entusiasta por la **tecnología** y por construir soluciones que mejoren la vida de las personas.
+👨‍💻 Desarrollador **Software** con experiencia en la creación de aplicaciones y sitios web, buscando mejorar mis habilidades y adaptarme a nuevas tecnologías.
 
-- 🚀 En busca de nuevas oportunidades para seguir creciendo profesionalmente.
-- 🧑‍🎓 Me especializo en [Java | JavaScript | React | Angular | PHP | otras tecnologías].
+- 🚀 En busca de oportunidades para crecer profesionalmente.
+- 🧑‍🎓 Me especializo en [Java | MySQL | React | Vue | PHP | otras tecnologías].
 - 🎓 Graduado en Desarrollo de Aplicaciones Web.
 
 ---
 
 ## 🛠️ Tecnologías que uso
 
-- **Frontend**: HTML, CSS, JavaScript, React, Astro, Angular
-- **Backend**: Node.js, Express, API REST, SQL
-- **Otros**: Docker, Git, Testing
+- **Frontend**: HTML, CSS, JavaScript, React, TailwindCSS, Vue
+- **Backend**: PHP, Java, API REST, SQL
+- **Otros**: Docker, Git
 
 ---
 
@@ -36,6 +36,24 @@
 
 <table>
 <tr>
+<td width="50%">
+  <div align="center">
+    <h3>Sistema ERP Construcción</h3>
+    <a href="https://vuejs.org/v2/guide/" target="_blank">
+      <img src="https://img.shields.io/badge/Powered%20by-Vue.js-green?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+    </a>
+    <a href="https://github.com/MiquelRoca18/sistema-erp-construccion" target="_blank">
+      <img src="https://imgur.com/a8g882p.png" width="400" alt="Tienda Vue"></a>
+    <p>Sistema ERP para empresas de construcción que centraliza la gestión de proyectos, recursos, finanzas y personal. Diseñado para optimizar procesos clave y facilitar la toma de decisiones con informes detallados. Escalable, multiusuario y personalizable.</p>
+    <p>
+      <a href="https://github.com/MiquelRoca18/sistema-erp-construccion" target="_blank">
+        <img src="https://img.shields.io/badge/-Ver Código-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+  </div>
+</td>
+
+  
 <td width="50%">
 <div align="center">
 <h3>Astro SpaceX</h3>
@@ -48,23 +66,6 @@
 <p>
 <a href="https://github.com/MiquelRoca18/astroSpaceX" target="_blank">
 <img src="https://img.shields.io/badge/-Ver Código-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-</div>
-</td>
-
-<td width="50%">
-<div align="center">
-<h3>Tienda React</h3>
-<a href="https://es.react.dev/reference/react" target="_blank">
-<img src="https://img.shields.io/badge/Powered%20by-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React">
-</a>
-<a href="https://github.com/MiquelRoca18/shoppingCart" target="_blank">
-<img src="https://imgur.com/a8g882p.png" width="400" alt="Tienda React"></a>
-<p>Tienda en línea construida con React. Permite explorar productos desde un JSON, filtrarlos por precio y categoría, agregar productos al carrito y ajustar cantidades.</p>
-<p>
-<a href="https://github.com/MiquelRoca18/shoppingCart" target="_blank">
-<img src="https://img.shields.io/badge/-Ver Código-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </div>
@@ -89,4 +90,4 @@
 
 - **Correo**: [miquel1818@correo.com](mailto:miquel1818@correo.com)
 - **LinkedIn**: [linkedin.com/in/mique-roca-mascaros](https://www.linkedin.com/in/miquel-roca-mascaros/)
-- **Portafolio**: [porfoliomiquelroca.netlify.app](https://porfoliomiquelroca.netlify.app/)
+- **Portafolio**: [porfoliomiquelroca.netlify.app](https://portafoliomiquelroca.netlify.app/)

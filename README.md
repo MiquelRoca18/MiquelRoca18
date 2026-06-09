@@ -1,24 +1,28 @@
 <div align="center">
 <h1 align="center">Hola, soy Miquel Roca 👋</h1>
+<h3>Desarrollador Full-stack · Frontend · Backend · Mobile</h3>
 </div>
 
 ---
 
 ## Sobre mí
 
-👨‍💻 Desarrollador **Software** con experiencia en la creación de aplicaciones y sitios web, buscando mejorar mis habilidades y adaptarme a nuevas tecnologías.
+👨‍💻 Desarrollador **Full-stack** con experiencia en frontend, backend y mobile. Construyo productos de principio a fin con foco en código limpio, accesibilidad y entregar valor rápido.
 
-- 🚀 En busca de oportunidades para crecer profesionalmente.
-- 🧑‍🎓 Me especializo en [Java | MySQL | React | Vue | PHP | otras tecnologías].
-- 🎓 Graduado en Desarrollo de Aplicaciones Web.
+- 💼 Actualmente trabajando como **Software Developer** en **Softtalia** (agencia SEO & Marketing).
+- 🧑‍🎓 Graduado en **Desarrollo de Aplicaciones Web** (DAW) y **Desarrollo de Aplicaciones Multiplataforma** (DAM).
+- 🚀 Disponible para oportunidades **full-stack, frontend o mobile**.
+- ⚽ Fuera del teclado: fútbol los domingos y cine de autor entre semana.
 
 ---
 
 ## 🛠️ Tecnologías que uso
 
-- **Frontend**: HTML, CSS, JavaScript, React, TailwindCSS, Vue
-- **Backend**: PHP, Java, API REST, SQL
-- **Otros**: Docker, Git
+**Frontend** &nbsp;&nbsp; ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend** &nbsp;&nbsp; ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Tools & DevOps** &nbsp;&nbsp; ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
@@ -28,41 +32,48 @@
 <tr>
 <td width="50%">
   <div align="center">
-    <h3>Sistema ERP Construcción</h3>
-    <a href="https://vuejs.org/v2/guide/" target="_blank">
-      <img src="https://img.shields.io/badge/Powered%20by-Vue.js-green?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+    <h3>🎾 Tenly</h3>
+    <a href="https://tennis-ml-frontend.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Powered%20by-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
     </a>
-    <a href="https://github.com/MiquelRoca18/sistema-erp-construccion" target="_blank">
-      <img src="https://i.imgur.com/K76Tp7N.png" width="400" alt="Tienda Vue">
-    </a>
-    <p>Sistema ERP para empresas de construcción que centraliza la gestión de proyectos, recursos, finanzas y personal. Diseñado para optimizar procesos clave y facilitar la toma de decisiones con informes detallados. Escalable, multiusuario y personalizable.</p>
+    <p><strong>Predicciones de tenis con machine learning.</strong></p>
+    <p>App multiplataforma (web + mobile) con Expo y React Native, conectada a una API con modelo ML. Gráficos interactivos, predicciones en tiempo real y auth vía Supabase.</p>
     <p>
-      <a href="https://github.com/MiquelRoca18/sistema-erp-construccion" target="_blank">
-        <img src="https://img.shields.io/badge/-Ver Código-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      <a href="https://tennis-ml-frontend.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/-Live%20Demo-15803D?style=for-the-badge&logo=vercel&logoColor=white">
+      </a>
+      <a href="https://github.com/MiquelRoca18/tennis-ml-frontend" target="_blank">
+        <img src="https://img.shields.io/badge/-Ver%20Código-333?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </p>
   </div>
 </td>
-
-  
 <td width="50%">
-<div align="center">
-<h3>Astro SpaceX</h3>
-<a href="https://astro.build/docs" target="_blank">
-<img src="https://img.shields.io/badge/Powered%20by-Astro-blue?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
-</a>
-<a href="https://github.com/MiquelRoca18/astroSpaceX" target="_blank">
-<img src="https://imgur.com/5uWPzem.png" width="400" alt="Astro SpaceX"></a>
-<p>Web que muestra todos los lanzamientos de SpaceX conectándose a su API. Incluye número de vuelo, parche, descripción y estado del lanzamiento.</p>
-<p>
-<a href="https://github.com/MiquelRoca18/astroSpaceX" target="_blank">
-<img src="https://img.shields.io/badge/-Ver Código-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-</div>
+  <div align="center">
+    <h3>🕸️ MultiScraping</h3>
+    <a href="https://github.com/MiquelRoca18/leadsScraper" target="_blank">
+      <img src="https://img.shields.io/badge/Powered%20by-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+    </a>
+    <p><strong>Suite de captación de leads multi-plataforma.</strong></p>
+    <p>3 backends independientes (Google Maps, Instagram, LinkedIn) con panel web unificado. Scraping con Playwright, exportación CSV y despliegue con Docker Compose.</p>
+    <p>
+      <a href="https://github.com/MiquelRoca18/leadsScraper" target="_blank">
+        <img src="https://img.shields.io/badge/-Ver%20Código-333?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </p>
+  </div>
 </td>
 </tr>
 </table>
+
+---
+
+## 💼 Experiencia
+
+| Periodo | Empresa | Rol | Destacado |
+|---------|---------|-----|-----------|
+| Mar 2026 — Actualidad | **Softtalia** | Software Developer | Web scraping con Python, automatización con n8n, herramientas a medida con Docker |
+| Mar 2024 — Jul 2025 | **Soluciones Abiertas** | Web Developer | Plugins WordPress, mantenimiento web, migración de frameworks |
 
 ---
 
@@ -79,6 +90,8 @@
 
 ## 📫 Contáctame
 
-- **Correo**: [miquel1818@correo.com](mailto:miquel1818@correo.com)
-- **LinkedIn**: [linkedin.com/in/miquel-roca-mascaros](https://www.linkedin.com/in/miquel-roca-mascaros/)
-- **Portafolio**: [portafoliomiquelroca.netlify.app](https://portafoliomiquelroca.netlify.app/)
+<p align="center">
+  <a href="mailto:miquel1818@gmail.com"><img src="https://img.shields.io/badge/-miquel1818@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/miquel-roca-mascaros/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MiquelRoca18"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>

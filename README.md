@@ -12,7 +12,7 @@
 - 💼 Actualmente trabajando como **Software Developer** en **Softtalia** (agencia SEO & Marketing).
 - 🧑‍🎓 Graduado en **Desarrollo de Aplicaciones Web** (DAW) y **Desarrollo de Aplicaciones Multiplataforma** (DAM).
 - 🚀 Disponible para oportunidades **full-stack, frontend o mobile**.
-- ⚽ Fuera del teclado: fútbol los domingos y cine de autor entre semana.
+- 🌐 Mi portafolio: **[miquelroca.dev](https://portafolio-miquelroca.vercel.app/)**
 
 ---
 
@@ -93,5 +93,5 @@
 <p align="center">
   <a href="mailto:miquel1818@gmail.com"><img src="https://img.shields.io/badge/-miquel1818@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/miquel-roca-mascaros/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/MiquelRoca18"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://portafolio-miquelroca.vercel.app/"><img src="https://img.shields.io/badge/-Portafolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
